@@ -1,0 +1,57 @@
+{
+	"data": {
+		"username": "A random name",
+		"team": [
+			{
+				"id": 0,
+				"name": "Kyle Jenner",
+				"email": "KyleJenner@gmail.com"
+			},
+			{
+				"id": 1,
+				"name": "Robert Kale",
+				"email": "RobertKale@gmail.com"
+			},
+			{
+				"id": 2,
+				"name": "KristinWatson",
+				"email": "KristinWatson@gmail.com"
+			},
+			{
+				"id": 3,
+				"name": "Jerome Bell",
+				"email": "JeromeBell@gmail.com"
+			}
+		],
+		"calls": [
+			{
+				"id": 0,
+				"name": "Kyle Jenner",
+				"type": "incoming",
+				"duration": "16m 17s",
+				"date": "01/10/2024"
+			},
+			{
+				"id": 1,
+				"name": "Kyle Jenner",
+				"type": "incoming",
+				"duration": "16m 17s",
+				"date": "01/10/2024"
+			},
+			{
+				"id": 2,
+				"name": "Kyle Jenner",
+				"type": "incoming",
+				"duration": "16m 17s",
+				"date": "01/10/2024"
+			},
+			{
+				"id": 3,
+				"name": "Kyle Jenner",
+				"type": "incoming",
+				"duration": "16m 17s",
+				"date": "01/10/2024"
+			}
+		]
+	}
+}
